@@ -35,13 +35,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/radubirsan/FlashBrowser.git"
+    "url": "https://github.com/abilioj/FlashBrowser.git"
   },
   "build": {
     "appId": "pm.flash.browser",
     "directories": {
-      "buildResources": "resources",
-      "flashver": "flashver",
+      "buildResources": "resources", 
       "output": "release"
     },
     "publish": [
